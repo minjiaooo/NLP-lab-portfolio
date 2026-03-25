@@ -7,6 +7,7 @@ A collection of Natural Language Processing projects, implemented from scratch o
 | # | Project | Description | Key Techniques |
 |---|---------|-------------|----------------|
 | 01 | [Twitter Sentiment Analysis](./01-twitter-sentiment-nn/) | Classify tweet sentiment (positive/negative) | 2-layer NN, Backprop, BCE Loss, NumPy |
+| 02 | [Autocorrect & Min Edit Distance](./02-autocorrect-min-edit-distance/) | Spelling correction + edit distance calculator | N-gram LM, Dynamic Programming, NumPy |
 
 > More projects coming soon...
 
