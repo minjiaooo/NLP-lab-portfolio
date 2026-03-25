@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Model weights & data (often too large for Git)
+*.pkl
+*.npz
+*.pt
+*.pth
+*.h5
+*.ckpt
+
+# Datasets
+*.csv
+*.tsv
+*.json
+data/
+
+# Logs & outputs
+*.log
+logs/
+outputs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+.vscode/
+*.swp
