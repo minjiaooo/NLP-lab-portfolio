@@ -6,7 +6,7 @@ A tweet sentiment classifier built **from scratch using only NumPy**, without an
 
 ```
 01-twitter-sentiment-nn/
-├── assignment2.py       # Main model: sigmoid, forward pass, BCE loss, backprop, training loop
+├── twitter-sentiment.py # Main model: sigmoid, forward pass, BCE loss, backprop, training loop
 ├── utils.py             # Tweet preprocessing, frequency table, feature extraction
 ├── en_US_twitter.txt    # Raw Twitter corpus (used for reference / language model)
 ├── requirements.txt
